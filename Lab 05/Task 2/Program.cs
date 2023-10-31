@@ -1,10 +1,11 @@
-﻿using System.Drawing;
+﻿using System.Collections;
+using System.Drawing;
 
 namespace Task_2
 {
     class Program
     {
-        class MyList<T>
+        class MyList<T> : IEnumerable<T>
         {
             private T[] _array;
 
@@ -28,11 +29,20 @@ namespace Task_2
             public T this[int index] => _array[index];
 
             public int Size => _array.Length;
+            public IEnumerator<T> GetEnumerator()
+            {
+                return (IEnumerator<T>)_array.GetEnumerator();
+            }
+
+            IEnumerator IEnumerable.GetEnumerator()
+            {
+                return GetEnumerator();
+            }
         }
 
         static void Main()
         {
-            MyList<int> myList = new MyList<int>(1, 80, 57, 76);
+            MyList<int> myList = new MyList<int>(){1, 80, 57, 76};
             Console.WriteLine($"{myList[2]}");
             Console.WriteLine($"{myList.Size}");
             myList.Add(60);

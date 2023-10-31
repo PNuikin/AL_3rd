@@ -31,6 +31,14 @@ class Program
         }
 
          public int Size => _dict.Count;
+
+         public IEnumerator<KeyValuePair<TKey, TValue>> GetEnumerator()
+         {
+             foreach (var arg in _dict)
+             {
+                 yield return arg;
+             }
+         }
     }
 
     static void Main()
@@ -44,5 +52,9 @@ class Program
         Console.WriteLine($"{myDictionary.Size}");
         myDictionary.Add(pair3);
         Console.WriteLine($"{myDictionary.Size}");
+        foreach (var arg in myDictionary)
+        {
+            Console.WriteLine($"{arg.Key} {arg.Value}");
+        }
     }
 }

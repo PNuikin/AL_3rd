@@ -1,0 +1,15 @@
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\bin\Debug\net7.0\Lab08_FileSearch.exe
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\bin\Debug\net7.0\Lab08_FileSearch.deps.json
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\bin\Debug\net7.0\Lab08_FileSearch.runtimeconfig.json
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\bin\Debug\net7.0\Lab08_FileSearch.dll
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\bin\Debug\net7.0\Lab08_FileSearch.pdb
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.csproj.AssemblyReference.cache
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.AssemblyInfoInputs.cache
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.AssemblyInfo.cs
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.dll
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\refint\Lab08_FileSearch.dll
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.pdb
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\Lab08_FileSearch.genruntimeconfig.cache
+C:\Users\Hp\AL_3rd\Lab 08\Lab08_FileSearch\obj\Debug\net7.0\ref\Lab08_FileSearch.dll
