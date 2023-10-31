@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animals>
+  <Dog>
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <Country>Russia</Country>
+    <WhatAnimal>Carnivores</WhatAnimal>
+  </Dog>
+  <Lion>
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <Country>Africa</Country>
+    <WhatAnimal>Carnivores</WhatAnimal>
+  </Lion>
+  <Cow>
+    <HideFromOtherAnimals>true</HideFromOtherAnimals>
+    <Country>Germany</Country>
+    <WhatAnimal>Herbivores</WhatAnimal>
+  </Cow>
+</Animals>
