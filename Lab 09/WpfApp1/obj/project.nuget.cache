@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "epS+LvJHIo8IwO1KVbV9ofKXfr2BPt9fHrFJZcMxpv88L+QM83k7YC81AFGP/O9UhCpyQed8l0nWuLCESmbH2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\AL_3rd\\Lab 09\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\wpf-ui\\3.0.0-preview.11\\wpf-ui.3.0.0-preview.11.nupkg.sha512"
+  ],
+  "logs": []
+}
