@@ -1,0 +1,15 @@
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\bin\Debug\net7.0\FileLoader.exe
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\bin\Debug\net7.0\FileLoader.deps.json
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\bin\Debug\net7.0\FileLoader.runtimeconfig.json
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\bin\Debug\net7.0\FileLoader.dll
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\bin\Debug\net7.0\FileLoader.pdb
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.csproj.AssemblyReference.cache
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.AssemblyInfoInputs.cache
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.AssemblyInfo.cs
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.dll
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\refint\FileLoader.dll
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.pdb
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\FileLoader.genruntimeconfig.cache
+C:\Users\Hp\AL_3rd\Lab 09\FileLoader\obj\Debug\net7.0\ref\FileLoader.dll

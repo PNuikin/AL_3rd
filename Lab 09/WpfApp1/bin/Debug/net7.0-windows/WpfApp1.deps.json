@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "WPF-UI": "3.0.0-preview.11"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "WPF-UI/3.0.0-preview.11": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Wpf.Ui.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPF-UI/3.0.0-preview.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wPTCMHQvjCQT096NzYix5Z+VVvitfmRoDYL+K9V679f7z0eLIts02ehnunjypKkg4w9bO8WCwffktb8+kiRiBQ==",
+      "path": "wpf-ui/3.0.0-preview.11",
+      "hashPath": "wpf-ui.3.0.0-preview.11.nupkg.sha512"
+    }
+  }
+}
